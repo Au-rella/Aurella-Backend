@@ -1,4 +1,4 @@
-# Fashion Hub — Backend
+# Aurella — Backend
 
 Express API starter for the Fashion Hub storefront. This repo is **just the scaffold** —
 no routes or models are built yet beyond a health check. See [open issues](../../issues)
