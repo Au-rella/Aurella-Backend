@@ -5,8 +5,8 @@ no routes or models are built yet beyond a health check. See [open issues](../..
 for what to build.
 
 Pairs with:
-- [fashion-hub-frontend](../fashion-hub-frontend) — Next.js storefront
-- [fashion-hub-contracts](../fashion-hub-contracts) — Stellar smart contract
+- [Aurella-frontend](../Aurella-frontend) — Next.js storefront
+- [Aurella-contracts](../Aurella-contracts) — Stellar smart contract
 
 ## Stack
 
